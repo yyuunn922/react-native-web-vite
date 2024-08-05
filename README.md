@@ -8,4 +8,4 @@ ReactNative에서 Vite를 사용 ReactNativeWeb을 구성하려함
 
 
 # 문제점
-Android, Ios에서는 NativeWind가 적용되지만, React-Native-Web 환경에서 NativeWind 적용이 안됨
+Android, Ios에서는 NativeWind가 적용되지만, React-Native-Web 환경에서 NativeWind 적용이 안됨, Native코드가 vite를 통해서 web코드로 변경될때, className의 속성이 변경되지 않는것 같음.
